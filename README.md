@@ -8,7 +8,9 @@ Feel free to commit and make it more general.
 
 Google sheets template [here](https://docs.google.com/spreadsheets/d/1KaxHviDif4R0QDcuXmvZy0ih6uUZ_-vvlxZGFi-fb78/edit?usp=sharing). 
 
-## How to use the sheet
+## How to use the script and the sheet
+
+Copy the sheets template to your Drive and go to edit the sheet's script from Tools -> Script editor. Fill in all the variables and test to run the script. After everything works configure a trigger to run the script daily in the morning. 
 
 If you get a warning from the spend change, check if there are some errors in your campaigns or in the productfeed. After you have fixed the problem mark "Warning checked" column to "ok" so you won't get notified about the same issue tomorrow. 
 
