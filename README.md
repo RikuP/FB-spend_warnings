@@ -2,7 +2,7 @@
 
 Simple Google Sheets script for sending a warning with SMS and email if Facebook spend drops or increases 50% in 1-2 days. The script tracks the changes for two days because if your campaign breaks in the evening the it will not notice the change in the spend until the second day. 
 
-The script uses Smartly.io's Facebook marketing tool to fetch the Facebook spend, 46Elks API to send the SMS and Google's free MailApp to send the email. 
+The script uses [Smartly.io's](https://www.smartly.io/) Facebook marketing tool to fetch the Facebook spend, [46Elks](https://46elks.com/) API to send the SMS and Google's free [MailApp](https://developers.google.com/apps-script/reference/mail/mail-app) to send the email. 
 
 Feel free to commit and make it more general. 
 
